@@ -1,4 +1,4 @@
-# project-reactor-tests
+# project-reactor-tests ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Carlvshns/project-reactor-tests/maven)
 
 It is a project about Project Reactor make in course 'Project Reactor Essentials' by DevDojo. Used Project Reactor 3.3.5.RELEASE with tests.
 
